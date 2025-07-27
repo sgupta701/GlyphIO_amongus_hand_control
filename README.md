@@ -122,7 +122,7 @@ amongus_hand_control/
 
 ---
 
-#### ⚠please note
+#### please note
 
 ..so this project is a demo only,  not a product; and is created just for experimenting.
 
